@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <b><u>Project-02:-</b></u>
+    <br>      <br>
+    <br>      <br>
+    <table border = "4">
+    <tr>
+        <td style="text-align:center;">Teams</td>
+        <td style="text-align:center;">City</td>
+        <td style="text-align:center;">Home ground</td>
+        <td style="text-align:center;">Debut</td>
+        <td style="text-align:center;">Owner</td>
+    </tr>
+    <tr>
+        <td>Chennai Super Kings</td>
+        <td>Chennai, Tamilnadu</td>
+        <td>M.A.Chidambaram Stadium</td>
+        <td>2008</td>
+        <td><ul><li>N.Srinivasan</li></td></ul>
+    </tr>
+    <tr>
+        <td>Delhi Capitals</td>
+        <td>New Delhi, Delhi</td>
+        <td>Arun Jaitley Stadium</td>
+        <td></td>
+        <td><ul><li>Sajjan Jindal</ul>
+          <ul><li>G.M.Rao</ul></li></td>
+        
+    </tr>
+    <tr>
+        <td>Gujarat Titans</td>
+        <td>Ahmedabad,Gujarat</td>
+        <td>Narendra Modu Stadium</td>
+        <td>2022</td>
+        <td><ul><li>Steve Koltes</ul></li>
+        <ul><li>Juhi Chawla</ul></li>
+        <ul><li>Jay Mehta</ul></li></td>
+    </tr>
+    <tr>
+        <td>Kolkata Knight Riders</td>
+        <td>Kolkata, West Bengal</td>
+        <td>Eden Gardens</td>
+        <td>2008</td>
+        <td><ul><li>Shah Rukh Khan </ul></li>
+        <ul><li>Juhi Chawla</ul></li>
+        <ul><li>Jay Mehta</ul></li></td>
+    </tr>
+    <tr>
+        <td>Lucknow Super Giants</td>
+        <td>Lucknow, Uttar Pradesh</td>
+        <td>BRSABV Ekana Cricket Stadium</td>
+        <td>2022</td>
+        <td><ul><li>Sanjiv Goenka</ul></li></td>
+    </tr>
+    </table>
+</body>
+</html>
